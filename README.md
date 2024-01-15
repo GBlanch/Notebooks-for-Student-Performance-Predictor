@@ -6,5 +6,6 @@ This data is mainly csv and tsv flat files, with a json file on the performed tr
 The dataset is compound by around a thousand observations. [Dataset Source](https://www.kaggle.com/datasets/spscientist/students-performance-in-exams?datasetId=74977)
 
 [EDA on Student Performance Indicator](https://github.com/GBlanch/Notebooks-for-Student-Performance-Predictor/blob/main/notebook/student_performance_eda.ipynb)
+
 [Model training](https://github.com/GBlanch/Notebooks-for-Student-Performance-Predictor/blob/main/notebook/model_training.ipynb)
 
